@@ -1,0 +1,95 @@
+
+[
+    {
+        "id": 1,
+        "pergunta": "Um recipiente está completamente preenchido com mercúrio (Hg, rho = 13.6g/cm³). Um tubo fechado em um dos lados é invertido e submerso no mercúrio dentro do recipiente. No topo do tubo, cria-se uma região de pressão zero (vácuo), e o mercúrio dentro do tubo estabiliza a uma altura de 0.76m. Sabendo que a pressão atmosférica fora do recipiente mantém o mercúrio nessa altura do tubo, determine a pressão atmosférica em Pascal.",
+        "resposta_final": "101396 Pa",
+        "dica": "p = p0 + rho.g.h"
+        
+    },
+    {
+        "id": 2,
+        "pergunta": "Uma esfera de aço de diâmetro 0.250m está submersa ao oceano (rho_oceano = 1024kg/m³) a uma profundidade de 500m. Qual é a variação percentual no volume da esfera? (B = 160x10^9 Pa)",
+        "resposta_final": "0.003%",
+        "dica": "F/A = B . DELTA_V/V0"
+    },
+    {
+        "id": 3,
+        "pergunta": "Uma estátua de ouro (rho_au = 19.3x10^3 kg/m³) de 15kg, está sendo puxado em um navio submerso. Qual a tensão no cabo quando a estátua está em repouso completamente submerso?  (rho_oceano = 1024 kg/m³)",
+        "resposta_final": "139 N",
+        "dica": "Fe = rho.g.Vds"
+    },
+    {
+        "id": 4,
+        "pergunta": "Um fio de 1,5m de comprimento e diâmetro de 0,4mm, está suspenso no teto e suporta um objeto de 1,5kg em sua extremidade. Sabendo que o material do fio possui um módulo de elasticidade de 200x10^9 Pa, determine o alongamento sofrido pelo fio devido ao peso do objeto. (Obs: resposta em Exp)",
+        "resposta_final": "8.76x10^-4 m",
+        "dica": "F/A = Y . DELTA_L/L0"
+    },
+    {
+        "id": 5,
+        "pergunta": "Um sistema contém água (H20), mercúrio (Hg) e óleo em equilíbrio. Determine a pressão relativa na interface entre o óleo e o ar, considerando as alturas das colunas de fluido. (Obs: resposta em Exp)",
+        "resposta_final": "1.39x10^5 Pa",
+        "dica": "Se desce, p +. Se sobe, p -"
+    },
+    {
+        "id": 6,
+        "pergunta": "Dois termômetros medem a mesma temperatura, porém um está calibrado na escala Celsius e o outro na escala Fahrenheit. Em determinada condição, a leitura no termômetro em Celsius é três vezes maior que a do termômetro em Fahrenheit. Qual é essa temperatura?",
+        "resposta_final": "-21,69°C",
+        "dica": "1,8 . (C) + 32"
+    },
+    {
+        "id": 7,
+        "pergunta": "Uma esfera de alumínio, inicialmente com 10,0 cm de raio, sofre um aquecimento de 100,0°F para 200,0°F (B = 7,2x10^-5 °C^-1). Determine: A variação no volume da esfera devido à dilatação térmica.",
+        "resposta_final": "1.68x10^-5 m³",
+        "dica": "DELTA_V = V0 . COEF . DELTA_T"
+    },
+    {
+        "id": 8,
+        "pergunta": "Em uma ferrovia localizada em uma região sujeita a grandes variações de temperatura, os trilhos de aço possuem 5,2 m de comprimento cada e uma área transversal de 60 cm². Para evitar deformações térmicas, os trilhos são instalados de forma que se toquem apenas na temperatura máxima de 122 °F. Determine qual deve ser a folga entre os trilhos quando a temperatura estiver em -4 °F. Coeficiente dil. do aço = 15x10^-6 (Resposta em mm)",
+        "resposta_final": "4,72mm",
+        "dica": "DELTA_L = L0 . COEF . DELTA_T"
+    },
+    {
+        "id": 9,
+        "pergunta": "Uma chaleira de alumínio com massa igual a 1,50 kg e contendo 1,80 kg de água é colocada para esquentar em um fogão. Supondo que não haja nenhuma perda de calor para o ambiente, qual é a quantidade de calor que deve ser adicionada para elevar a temperatura de 20 °C até 85 °C?",
+        "resposta_final": "578955 J",
+        "dica": "Q = M.C.DELTA_T"
+    },
+    {
+        "id": 10,
+        "pergunta": "Um trabalhador pintando o topo de uma antena a uma altura de 225 m deixa cair acidentalmente uma garrafa com 1,0 L de água da sua mochila. A garrafa é amortecida por arbustos e atinge o solo sem se quebrar. Supondo que a água absorva uma quantidade de calor igual ao módulo da variação da energia potencial, qual é o aumento da temperatura da água?",
+        "resposta_final": "0,53°C",
+        "dica": "Q = M.C.DELTA_T"
+    },
+    {
+        "id": 11,
+        "pergunta": "Qual é o calor total necessário para converter 12,0 g de gelo a –10 °C em vapor d’água a 100 °C? Dê a resposta em joules.",
+        "resposta_final": "36360 J",
+        "dica": "Q = M.C.DELTA_T e Q = M.L"
+    },
+    {
+        "id": 12,
+        "pergunta": "Um pedaço de alumínio de 25 g a 85 °C é jogado em 1,0 L de água a 10 °C, que está em um recipiente isolado. Supondo que a perda de calor para o ambiente seja desprezível, determine a temperatura de equilíbrio do sistema.",
+        "resposta_final": "10,4°C",
+        "dica": "Q = M.C.DELTA_T"
+    },
+    {
+        "id": 13,
+        "pergunta": "Uma panela com um fundo de aço de espessura igual a 8,50 mm está em repouso sobre um fogão quente. A área da base da panela é 0,150 m². A água no interior da panela está a 100°C e são vaporizados 0,390 kg de água a cada 3,0 min. Calcule a temperatura da superfície inferior da panela que está em contato com o fogão.",
+        "resposta_final": "105,5°C",
+        "dica": "h = kA.dt/d"
+    },
+    {
+        "id": 14,
+        "pergunta": "A superfície quente e brilhante de uma estrela emite energia sob forma de radiação eletromagnética. É uma boa aproximação considerar a emissividade ε = 1 para essas superfícies. Calcule os raios das seguintes estrelas, supondo que elas sejam esféricas: Rigel, a estrela brilhante azul da constelação de Órion, que irradia energia com uma taxa de 2,7 × 10^32 W e tem uma temperatura de superfície igual a 11.000 K. (Resposta em Exp)",
+        "resposta_final": "1,61x10^11",
+        "dica": "h = coef . emissividade . area . t^4"
+    },
+    {
+        "id": 15,
+        "pergunta": "Seis moles de um gás ideal estão em um cilindro com um pistão móvel em uma de suas extremidades. A temperatura inicial do gás é 27 °C e a pressão é constante. Como parte do projeto da máquina, calcule a temperatura final do gás depois que ele houver realizado 1,75x10^3 J  de trabalho",
+        "resposta_final": "62,1°c",
+        "dica": "W = nR . delta_T"
+    }
+
+]
